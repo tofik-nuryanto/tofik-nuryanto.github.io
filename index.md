@@ -11,8 +11,8 @@ title: "Tofik • Résumé"
   <p class="tagline">Software Engineer • Central Java, ID</p>
   <p>
     <a href="mailto:info@ndalu.id">info@ndalu.id</a> •
-    <a href="https://linkedin.com/in/tofik-nuryanto-5172bb218">LinkedIn</a> •
-    <a href="https://github.com/tofik-nuryanto">GitHub</a>
+    <a href="https://linkedin.com/in/tofik">LinkedIn</a> •
+    <a href="https://github.com/tofik">GitHub</a>
   </p>
 </div>
 
