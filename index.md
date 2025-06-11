@@ -26,22 +26,45 @@ Developer dengan **7+ tahun** pengalaman pada _web backend_, _web frontend_, _au
 ---
 
 ## Keahlian Utama
-| Kategori      | Alat / Teknologi                                  |
-|---------------|---------------------------------------------------|
-| Bahasa        | JavaScript (Node), Go, Python                     |
-| Framework     | Express.js, Fastify, React (Next.js)              |
-| Database      | PostgreSQL, MongoDB, Redis                        |
-| DevOps        | Docker, GitHub Actions, AWS ECS/Fargate, Terraform|
-| Praktik       | TDD/BDD, Microservices, Clean Architecture        |
+<table>
+  <thead>
+    <tr>
+      <th>kategori</th>
+      <th>Alat / Tehnologi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bahasa</td>
+      <td>JavaScript (Node), Go, Python, Kotlin, Dart</td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td>Express.js, Fastify, React (Next.js), Vue</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>Mysql, PostgreSQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td>DevOps</td>
+      <td>Docker, Github Actions</td>
+    </tr>
+    <tr>
+      <td>Praktik</td>
+      <td>Clean Architecture, Microservices</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## Pengalaman Kerja
 
-### Senior Backend Engineer — PT Inovasi Nusantara  
+### Full Stack Developer — PT Rekatama Global Sinergi
 _Jakarta · Juli 2012 – Februari 2022_
 
-DRAFTER & IT : 2012 - 2022
+IT : 2012 - 2022
 
 - WEB Company profile, build CMS, database design, backend and frontend
 - WEB Application with features material orders, approval, comparation price, purchase orders, logistic control, opname progress and many more
@@ -51,6 +74,7 @@ DRAFTER & IT : 2012 - 2022
 
 <details>
 <summary>Lihat pencapaian lain</summary>
+DRAFTER
 
 - PT. Rekatama Global Sinergi Jakarta, Indonesia
 - Shop Drawing, asbuilt drawing architect, structure and MEP
