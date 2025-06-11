@@ -10,9 +10,9 @@ title: "Tofik • Résumé"
   <h1>Tofik</h1>
   <p class="tagline">Software Engineer • Central Java, ID</p>
   <p>
-    <a href="mailto:tofik@example.com">tofik@example.com</a> •
-    <a href="https://linkedin.com/in/tofik">LinkedIn</a> •
-    <a href="https://github.com/tofik">GitHub</a>
+    <a href="mailto:info@ndalu.id">info@ndalu.id</a> •
+    <a href="https://linkedin.com/in/tofik-nuryanto-5172bb218">LinkedIn</a> •
+    <a href="https://github.com/tofik-nuryanto">GitHub</a>
   </p>
 </div>
 
