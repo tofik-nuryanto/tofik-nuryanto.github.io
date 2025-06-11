@@ -1,0 +1,8 @@
+title: "Tofik | Résumé"
+description: "Profil profesional & portofolio singkat."
+# Tema bawaan GitHub Pages — ringan & rapi
+theme: jekyll-theme-cayman
+
+# Opsional: matikan analitik, tautan edit, dll.
+show_downloads: false
+google_analytics: ""
