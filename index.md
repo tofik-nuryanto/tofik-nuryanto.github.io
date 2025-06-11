@@ -6,13 +6,13 @@ title: "Tofik • Résumé"
 <link rel="stylesheet" href="assets/style.css">
 
 <div class="hero">
-  <img src="assets/your-photo.jpg" alt="Tofik" class="avatar">
+  <img src="assets/photo.png" alt="Tofik" class="avatar">
   <h1>Tofik</h1>
-  <p class="tagline">Software Engineer • Central Java, ID</p>
+  <p class="tagline">Full Stack Developer • Central Java, ID</p>
   <p>
     <a href="mailto:info@ndalu.id">info@ndalu.id</a> •
     <a href="https://linkedin.com/in/tofik-nuryanto-5172bb218">LinkedIn</a> •
-    <a href="https://github.com/ngadimin51">GitHub</a>
+    <a href="https://github.com/ngadimin51">GitHub</a> •
     <a href="https://ndalu.id">Blog</a>
   </p>
 </div>
@@ -21,7 +21,7 @@ title: "Tofik • Résumé"
 
 ## Ringkasan
 
-Developer dengan **{{X}}+ tahun** pengalaman pada _web backend_, automasi, dan cloud. Ahli JavaScript (Node.js), Go, serta CI/CD di AWS. Terobsesi menulis kode rapi, _testing_-minded, dan kolaborasi lintas-tim.
+Developer dengan **7+ tahun** pengalaman pada _web backend_, _web frontend_, _automasi_, dan server. Terobsesi menulis kode rapi, _testing_-minded, dan kolaborasi lintas-tim.
 
 ---
 
@@ -61,8 +61,7 @@ _Semarang · Jul 2019 – Des 2021_
 
 ## Pendidikan
 
-**S.T. Teknik Informatika** — Universitas Diponegoro (2015-2019)  
-IPK 3.65 / 4.00 • Ketua UKM Programming 2017-2018
+Sedang kuliah di UT jurusan Sistem Informasi
 
 ---
 
@@ -77,8 +76,10 @@ IPK 3.65 / 4.00 • Ketua UKM Programming 2017-2018
 
 | Nama | Deskripsi Ringkas | Link |
 |------|-------------------|------|
-| **Go-Queue** | Library _lightweight_ antrian tugas berbasis Redis dgn _retry_ eksponensial | github.com/tofik/go-queue |
-| **Kampung-IoT** | Platform monitoring sensor pertanian; React + WebSocket + Grafana | kampung-iot.vercel.app |
+| **Caket** | Portal penjualan tiket online di Taman Ismail Marzuki | caket.org |
+| **lebaran-teater** | Penjualan tiket lebaran teater | lebaran-teater.caket.org |
+| **wa.ndalu.id** | whatsapp gateway | wa.ndalu.id |
+| **dpm rgs** | Sistem Manajemen Kontraktor | dpm.rgsinergi.co.id |
 
 ---
 
@@ -91,7 +92,13 @@ IPK 3.65 / 4.00 • Ketua UKM Programming 2017-2018
 
 ## Ketertarikan Personal
 
-Fotografi drone, menanam bonsai, maraton 10 K.
+Coding, drawing, enterpreneur.
+
+---
+
+## Aktifitas terkini
+
+Mengelola maklon <a href='comfocare.net'>comfocare.net</a>
 
 ---
 
